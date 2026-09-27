@@ -1,0 +1,29 @@
+HANDSHAKE PROJECT ENTRY
+
+Project title:
+AI-Assisted Oracle SQL Evaluation Lab
+
+URL:
+After publishing to GitHub:
+https://github.com/YOUR_GITHUB_USERNAME/oracle-sql-ai-evaluation-lab
+
+Optional GitHub Pages URL:
+https://YOUR_GITHUB_USERNAME.github.io/oracle-sql-ai-evaluation-lab/
+
+Preview:
+Upload assets/handshake_project_preview.png
+
+Description:
+Built a synthetic Oracle SQL evaluation lab to test AI-generated database solutions. I used generative AI to produce candidate queries, then evaluated syntax, joins, aggregation, NULL behavior, analytic functions, performance, and edge cases. I corrected flawed answers, created reference solutions and validation checks, and documented recurring reasoning failures. All schemas and data are synthetic and nonconfidential.
+
+Recommended skills:
+SQL
+PL/SQL
+Oracle Database
+AI Evaluation
+Data Validation
+Debugging
+Code Review
+Query Optimization
+Technical Reasoning
+Data Engineering

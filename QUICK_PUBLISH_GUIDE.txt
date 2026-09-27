@@ -1,0 +1,22 @@
+QUICK PUBLISH GUIDE
+
+1. Sign in to GitHub.
+2. Open https://github.com/new
+3. Repository name: oracle-sql-ai-evaluation-lab
+4. Set visibility to Public.
+5. Create repository.
+6. Unzip the portfolio ZIP.
+7. In GitHub choose Add file -> Upload files.
+8. Drag the unzipped project contents into the upload area.
+9. Commit the files.
+
+Repository URL:
+https://github.com/YOUR_GITHUB_USERNAME/oracle-sql-ai-evaluation-lab
+
+Optional GitHub Pages:
+Repository -> Settings -> Pages -> Deploy from a branch -> main / root -> Save
+
+Pages URL:
+https://YOUR_GITHUB_USERNAME.github.io/oracle-sql-ai-evaluation-lab/
+
+Then return to Handshake and use the exact text in HANDSHAKE_ENTRY.txt.
